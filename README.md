@@ -1,2 +1,2 @@
 # writing_group
-writing prompts and results
+writing prompts from flathead writinggroup and my results
